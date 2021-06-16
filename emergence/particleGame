@@ -1,0 +1,3 @@
+Version 1.0
+
+A simulation of a particle version of Conway's Game of Life. Particles exert forces on each other. Different particles exert different amount of forces.
